@@ -37,7 +37,7 @@ Cull is a modern Electron-based desktop application designed to help you regain 
 ### Installation
 
 1. Go to the **Releases** tab on GitHub.
-2. Download the latest `Cull Setup 1.0.0.exe` (Installer).
+2. Download the latest `Cull Setup.exe` (Installer).
 3. Run the application!
 
 ### Getting Started
@@ -49,18 +49,6 @@ Cull is a modern Electron-based desktop application designed to help you regain 
 5. **Recycle Bin**: Manage your Recycle Bin directly from the app to permanently free up that reclaimed space.
 
 ---
-
-## 💻 Development Setup
-
-If you want to build Cull from source or contribute to the project:
-
-### Prerequisites
-- Node.js (v16 or higher)
-- npm
-
-### Build Instructions
-
-- Soon
 
 ## 📝 License
 
